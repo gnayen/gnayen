@@ -1,3 +1,6 @@
+
+
+
 ul li {
 	list-style: none;
 	display: inline-block;
@@ -414,3 +417,6 @@ hr {
 	}
 }
 
+html,body {
+	color: red;
+}
