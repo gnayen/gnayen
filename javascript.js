@@ -54,6 +54,20 @@ $(document).ready(function(){
 
 	// body
 	$('body').fadeIn(1300);
+
+	// enlarge
+	$('#enlarge').hide();
+	$('#ui-flow').mouseenter('on',function(){
+		$('#enlarge').fadeIn();
+	})
+
+	$('#ui-flow').mouseout('on',function(){
+		$('#enlarge').fadeOut();
+	})
+
+	$('#ui-flow img').click('on',function(){
+		$('#enlarge-content').fadeIn();
+	})
 });
 
 

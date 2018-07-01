@@ -341,6 +341,53 @@ hr {
 	padding-right: 0;
 }
 
+img.links {
+	width: 1.8%;
+	transition: all 0.3s;
+	margin-left: 5px;
+	margin-bottom: 3px;
+}
+
+img.links:hover {
+	opacity: .5;
+}
+
+.is_active {
+     padding-bottom: 0; 
+     border-bottom: none; 
+     font-weight: none; 
+     color: white; 
+     padding-left: 0; 
+     padding-right: 0; 
+}
+
+#preface {
+	text-align: center; 
+/*	font-size: 28px; */
+	font-family: SongTi TC; 
+	padding: 220px 0 
+}
+
+.fmp {
+	width: 90%; 
+	display: block; 
+	margin: 0 auto; 
+	margin-bottom: 40px;
+}
+
+/*#ui-flow img {
+	transition: opacity 0.3s;
+	cursor: pointer;
+}
+
+#ui-flow img:hover {
+	opacity: .5;
+}*/
+
+/*#ui-flow {
+	position: relative;
+}*/
+
 /*RWD*/
 @media screen and (max-width: 1200px) {
 	#intro {
