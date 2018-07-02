@@ -5,10 +5,10 @@
 }
 
 /*中文字型*/
-@font-face {
+/*@font-face {
   font-family: "SongTi TC";
   src: url(webfonts/Song_ti.otf);
-}
+}*/
 
 ul li {
 	list-style: none;
