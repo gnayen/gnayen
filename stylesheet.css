@@ -1,3 +1,15 @@
+/*英文字型*/
+@font-face {
+  font-family: "Tisa OT";
+  src: url(webfonts/FF_Tisa_OT.otf);
+}
+
+/*中文字型*/
+@font-face {
+  font-family: "SongTi TC";
+  src: url(webfonts/Song_ti.otf);
+}
+
 ul li {
 	list-style: none;
 	display: inline-block;
@@ -18,7 +30,6 @@ a:hover {
 
 a:hover {
 	opacity: .8;
-
 }
 
 body {
@@ -364,7 +375,7 @@ img.links:hover {
 #preface {
 	text-align: center; 
 /*	font-size: 28px; */
-	font-family: SongTi TC; 
+	font-family: "SongTi TC"; 
 	padding: 220px 0 
 }
 
