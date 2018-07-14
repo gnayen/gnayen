@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="77px" height="71px" viewBox="0 0 77 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>menu</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M77,64.5 C77,60.91 74.09,58 70.5,58 L6.5,58 C2.91,58 0,60.91 0,64.5 C0,68.09 2.91,71 6.5,71 L70.5,71 C74.09,71 77,68.09 77,64.5 M77,35.499 C77,31.909 74.09,28.999 70.5,28.999 L6.5,28.999 C2.91,28.999 0,31.909 0,35.499 C0,39.089 2.91,41.999 6.5,41.999 L70.5,41.999 C74.09,41.999 77,39.089 77,35.499 M70.5,13 L6.5,13 C2.91,13 0,10.09 0,6.5 C0,2.91 2.91,0 6.5,0 L70.5,0 C74.09,0 77,2.91 77,6.5 C77,10.09 74.09,13 70.5,13" id="menu" fill="#333333"></path>
+    </g>
+</svg>
