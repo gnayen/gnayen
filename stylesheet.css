@@ -15,6 +15,7 @@ ul {
 	margin: 0;
 }
 
+
 a,
 a:hover {
 	color: inherit;
@@ -730,5 +731,11 @@ nav.nav .container-fluid {
 
 .go_up {
 	cursor: pointer;
+}
+
+a.links {
+	color: #1A33FF;
+    font-weight: 600;
+    /*text-decoration: underline;*/
 }
 
