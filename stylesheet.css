@@ -722,3 +722,13 @@ nav.nav .container-fluid {
 	margin-bottom: 15px;
 }
 
+
+/*go-up-arrow*/
+.go-up-arrow {
+	visibility: visible !important; 
+}
+
+.go_up {
+	cursor: pointer;
+}
+
