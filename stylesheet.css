@@ -464,6 +464,41 @@ img.links:hover {
 	right: 10%
 }
 
+.intro_myself {
+	font-size: 28px;
+    text-align: center;
+    line-height: 48px;
+    margin: 80px 200px -10px 200px;
+}
+
+.intro_myself p {
+	font-size: 20px;
+	margin-top: 20px;
+	
+}
+    
+.intro_myself p a {
+	color: #3254f2;
+	font-family: "quicksand";
+	font-weight: 900;
+	/*border-radius: 99em;*/
+	padding-bottom: 12px;
+	/*transition: all 0.3s;*/
+}
+
+.intro_myself p a:hover {
+	opacity: .5;
+	/*border-bottom: 4px solid #466FD5;*/
+}
+
+/*.blue_grey{
+	color: #3254f2;
+}*/
+
+
+
+
+
 /*RWD*/
 @media screen and (max-width: 1200px) {
 	#intro {
@@ -550,6 +585,13 @@ img.links:hover {
 	.work_nav_bar .container {
 		width: 100%;
 	}
+
+	.intro_myself {
+		font-size: 28px;
+	    text-align: center;
+	    line-height: 50px;
+	    margin: 80px 130px -10px 130px;
+	}
 }
 
 @media screen and (max-width: 992px) {
@@ -621,6 +663,13 @@ img.links:hover {
 	#intro {
 		padding-top: 60px;
 	}
+
+	.intro_myself {
+		font-size: 24px;
+	    text-align: center;
+	    line-height: 40px;
+	    margin: 70px 90px -10px 90px;
+	}
 }
 
 @media screen and (max-width: 768px) {
@@ -685,6 +734,13 @@ img.links:hover {
 		margin: 0 auto; 
 		display: block; 
 		width: 100%;
+	}
+
+	.intro_myself {
+		font-size: 20px;
+	    text-align: center;
+	    line-height: 34px;
+	    margin: 60px 60px -10px 60px;
 	}
 }
 
@@ -757,17 +813,6 @@ a.links {
 }
 
 
-
-
-/*.intro_myself {
-	font-size: 30px;
-    font-weight: 500;
-    text-align: center;
-    line-height: 50px;
-    padding: 0px 150px;
-}*/
-
-    
 
 
 
