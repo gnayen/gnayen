@@ -4,6 +4,11 @@
   src: url(webfonts/FF_Tisa_OT.otf);
 }
 
+@font-face {
+  font-family: "Quicksand";
+  src: url(webfonts/Quicksand.otf);
+}
+
 ul li {
 	list-style: none;
 	display: inline-block;
@@ -409,7 +414,7 @@ img.links:hover {
 }
 
 .banner-navbar-test {
-	 font-family: quicksand;
+	 font-family: "Quicksand";
 	 letter-spacing: 1px;
 	 margin-left: 30px;
 }
@@ -479,7 +484,7 @@ img.links:hover {
     
 .intro_myself p a {
 	color: #3254f2;
-	font-family: "quicksand";
+	font-family: "Quicksand";
 	font-weight: 900;
 	/*border-radius: 99em;*/
 	padding-bottom: 12px;
