@@ -9,6 +9,11 @@
   src: url(webfonts/Quicksand.otf);
 }
 
+@font-face {
+  font-family: "source sans Pro";
+  src: url(webfonts/SourceSansPro-Regular.otf);
+}
+
 
 ul li {
 	list-style: none;
